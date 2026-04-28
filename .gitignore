@@ -39,3 +39,6 @@ large compressed files
 *.tar
 *.tar.gz
 *.rar
+# old practice packages
+src/my_turtle_controller/
+src/turtle_control_cpp/
